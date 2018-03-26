@@ -11,3 +11,7 @@ Include with `<script type="text/javascript" src="JSLIDE.js"></script>` the `JSL
 Include with `<img src="image.jpg" name="slide" width="1000" height="500" />` the first image contained into your slideshow
 
 Edit the `JSLIDE.js` file for more information
+
+# WEB-SITE
+
+http://jslide.altervista.org
